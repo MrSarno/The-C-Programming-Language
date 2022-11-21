@@ -1,0 +1,1 @@
+I bought a copy of The C Programming Language, Second Edition, by Brian W. Kernighan and Dennis M. Ritchie. This repository is a collection of programs I write as I work my way through the book.

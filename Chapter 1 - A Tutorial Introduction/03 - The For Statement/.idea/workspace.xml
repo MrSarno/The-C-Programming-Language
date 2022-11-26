@@ -20,13 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc3c9472-36b5-4493-99d3-1495ab12e243" name="Changes" comment="DEV: add 003 - The For Statement">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - The For Statement/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - The For Statement/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - The For Statement/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - The For Statement/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../03 - The For Statement/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="cc3c9472-36b5-4493-99d3-1495ab12e243" name="Changes" comment="FIX: delete left-over files from directory rename" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669483249771</updated>
-      <workItem from="1669483251710" duration="433000" />
+      <workItem from="1669483251710" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="DEV: add 003 - The For Statement">
       <created>1669483609142</created>
@@ -101,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669483609143</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FIX: Chapter 1 Program 3 bad directory name">
+      <created>1669483723475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669483723475</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FIX: delete left-over files from directory rename">
+      <created>1669483790130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669483790130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +129,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DEV: add 003 - The For Statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="DEV: add 003 - The For Statement" />
+    <MESSAGE value="FIX: Chapter 1 Program 3 bad directory name" />
+    <MESSAGE value="FIX: delete left-over files from directory rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: delete left-over files from directory rename" />
   </component>
 </project>

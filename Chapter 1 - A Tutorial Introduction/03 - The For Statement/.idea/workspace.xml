@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc3c9472-36b5-4493-99d3-1495ab12e243" name="Changes" comment="FIX: delete left-over files from directory rename" />
+    <list default="true" id="cc3c9472-36b5-4493-99d3-1495ab12e243" name="Changes" comment="FIX: add file not previously committed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669483249771</updated>
-      <workItem from="1669483251710" duration="1130000" />
+      <workItem from="1669483251710" duration="1236000" />
     </task>
     <task id="LOCAL-00001" summary="DEV: add 003 - The For Statement">
       <created>1669483609142</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669483790130</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FIX: add file not previously committed">
+      <created>1669486116403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669486116403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="DEV: add 003 - The For Statement" />
     <MESSAGE value="FIX: Chapter 1 Program 3 bad directory name" />
     <MESSAGE value="FIX: delete left-over files from directory rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIX: delete left-over files from directory rename" />
+    <MESSAGE value="FIX: add file not previously committed" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: add file not previously committed" />
   </component>
 </project>
